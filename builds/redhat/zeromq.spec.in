@@ -12,6 +12,15 @@ BuildRequires: gcc, make, gcc-c++, libstdc++-devel
 Requires:      libstdc++
 
 %if 0%{?rhel}
+
+
+
+
+
+
+lkajdlkasjlkdajlskdjlkasjdlkas
+
+
 %if 0%{?rhel} == 6
 BuildRequires: libuuid-devel
 Requires:      libuuid
